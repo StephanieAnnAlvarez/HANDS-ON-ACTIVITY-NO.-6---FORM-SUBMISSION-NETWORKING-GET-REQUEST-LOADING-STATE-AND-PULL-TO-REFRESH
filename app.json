@@ -1,0 +1,28 @@
+{
+  "expo": {
+    "name": "task-4",
+    "slug": "snack-cea76077-abc5-4c1e-bb07-491811a4932e",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "description": "HANDS-ON ACTIVITY NO. 6 - FORM SUBMISSION, NETWORKING, GET REQUEST, LOADING STATE AND PULL TO REFRESH"
+  }
+}
